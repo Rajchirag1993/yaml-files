@@ -5,4 +5,5 @@ metadata:
 data:
   docker-server: "https://hub.docker.com"
   docker-username: "rajesh987"
+  docker-password: "Rajesh@123"
   docker-email: "raajesh987@gmail.com"
