@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-configmaps
+data:
+  docker-server: "https://hub.docker.com"
+  docker-username: "rajesh987"
+  docker-email: "raajesh987@gmail.com"
